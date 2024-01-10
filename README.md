@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on IACO Agrícola S/A | Work with C#(Windows Forms) and Database Oracle
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Asp.Net Core
 - 💬 Ask me about JavaScript or Node.js
 
 ### Best technologies
