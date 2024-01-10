@@ -1,17 +1,17 @@
-### Hi there 👋
+### Olá, meu nome é Alex👋
 
 - 🔭 I’m currently working on IACO Agrícola S/A | Work with C#(Windows Forms) and Database Oracle
-- 🌱 I’m currently learning Asp.Net Core
-- 💬 Ask me about JavaScript or Node.js
+- 🌱 Atualmente estou aprendendo Asp.Net Core
+- 💬 Vamos falar sobre .Net
 
-### Best technologies
+### Tecnologias
 
 <div>                   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "60" />           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "60" />      
 </div>
 
-### Contacts
+### Contatos
 
 <div>
   <a href="https://www.facebook.com/profile.php?id=100003597521099&mibextid=ZbWKwL">
