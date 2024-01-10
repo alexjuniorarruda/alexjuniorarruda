@@ -1,6 +1,6 @@
-### Olá, meu nome é Alex👋
+### Olá, meu nome é Alex 👋
 
-- 🔭 I’m currently working on IACO Agrícola S/A | Work with C#(Windows Forms) and Database Oracle
+- 🔭 Estou trabalhando atualmente na IACO Agrícola S/A | Trabalho com C#(Windows Forms) e Database Oracle
 - 🌱 Atualmente estou aprendendo Asp.Net Core
 - 💬 Vamos falar sobre .Net
 
